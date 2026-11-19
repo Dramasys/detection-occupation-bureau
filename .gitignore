@@ -221,3 +221,11 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# --- Projet détection d'objets ---
+# Données et poids des modèles : trop lourds pour GitHub (stockés sur Google Drive)
+donnees/
+runs/
+*.pt
+*.pth
+*.zip
